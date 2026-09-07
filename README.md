@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @amyfaith05
-- 👀 I’m interested in defi,javascript
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on new projects
-- 📫 How to reach me @mhiz_faith on teegram
-
-<!---
-amyfaith05/amyfaith05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+"Building crypto intelligence tools & trading content | AI data annotation | Learning AI engineering"
+"Crypto trader & builder | AI data annotation on Atlas Capture/Axis Robotics | Currently learning AI engineering + Python"
+"From finance to Web3 to AI | Building on-chain data tools | AI data annotation | Learning to code"
