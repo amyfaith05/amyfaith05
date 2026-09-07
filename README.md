@@ -1,3 +1,5 @@
--"Building crypto intelligence tools & trading content | AI data annotation | Learning AI engineering"
--"Crypto trader & builder | AI data annotation on Atlas Capture/Axis Robotics | Currently learning AI engineering + Python"
--"From finance to Web3 to AI | Building on-chain data tools | AI data annotation | Learning to code"
+"Building crypto intelligence tools & trading content | AI data annotation | Learning AI engineering"
+
+"Crypto trader & builder | AI data annotation on Atlas Capture/Axis Robotics | Currently learning AI engineering + Python"
+
+"From finance to Web3 to AI | Building on-chain data tools | AI data annotation | Learning to code"
